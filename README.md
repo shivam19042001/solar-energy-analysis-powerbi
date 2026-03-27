@@ -1,4 +1,4 @@
-# ☀️ Solar Energy Performance Analysis Report
+# ☀️ Solar Energy Performance Analysis Report 
 
 ## 📊 Project Overview
 This project presents a comprehensive analysis of global solar energy performance using Power BI and MySQL. It focuses on financial performance, operational efficiency, and environmental sustainability.
